@@ -52,7 +52,7 @@ Aplicação web desenvolvida durante a **NLW Operator da Rocketseat**, voltada p
 
 **Tecnologias:** HTML, Tailwind CSS, JavaScript, Cloudinary, GSAP e Lucide Icons.
 
-🔗 [Testar](https://lazarom.dev/clip-maker)
+🔗 [Testar](https://lazarom.dev/clip-maker) <br>
 🔗 [Ver repositório](https://github.com/Lazaro277/clip-maker)
 
 ---
@@ -61,10 +61,17 @@ Aplicação web desenvolvida durante a **NLW Operator da Rocketseat**, voltada p
 
 Jogo desenvolvido para praticar conceitos de **JavaScript e manipulação do DOM**, com diferentes níveis de dificuldade, sistema de vidas e geração dinâmica dos mosquitos na tela.
 
-🔗 [Jogar](https://lazarom.dev/game-mosquito/)
+🔗 [Jogar](https://lazarom.dev/game-mosquito/) <br>
 🔗 [Ver repositório](https://github.com/Lazaro277/game-mosquito)
 
 ---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lazaro277&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro277&layout=compact&theme=transparent&hide_border=true&locale=pt-br" />
+</div>
 
 ## 🎯 Objetivos
 
