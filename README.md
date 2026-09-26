@@ -77,11 +77,11 @@ Estou construindo meu portfólio através de projetos práticos, estudos e desaf
 ## 🌐 Contato
 
 <a href="https://www.linkedin.com/in/lazaro-messias">
-  <img src="https://img.shields.io/badge/LinkedIn-Lázaro%20Messias-0077B5?style=for-the-badge" height="28">
+  <img src="./assets/linkedin.svg" width="260">
 </a>
 <br>
 <a href="https://lazarom.dev">
-  <img src="https://img.shields.io/badge/Portfólio-lazarom.dev-0077B5?style=for-the-badge" height="28">
+  <img src="./assets/portfolio.svg" width="260">
 </a>
 
 ---
