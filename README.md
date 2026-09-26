@@ -66,13 +66,6 @@ Jogo desenvolvido para praticar conceitos de **JavaScript e manipulação do DOM
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lazaro277&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro277&layout=compact&theme=transparent&hide_border=true&locale=pt-br" />
-</div>
-
 ## 🎯 Objetivos
 
 Meu objetivo é construir uma carreira sólida em **Desenvolvimento de Software**, começando pelo desenvolvimento web e expandindo meus conhecimentos para **Full Stack**.
@@ -83,9 +76,15 @@ Estou construindo meu portfólio através de projetos práticos, estudos e desaf
 
 ## 🌐 Contato
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-lazarom.dev-0077B5?style=for-the-badge)](https://lazarom.dev)
+<a href="https://www.linkedin.com/in/lazaro-messias">
+  <img width="250" src="https://img.shields.io/badge/LinkedIn-Lázaro%20Messias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lázaro%20Messias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazaro-messias)
+<br>
+
+<a href="https://lazarom.dev">
+  <img width="250" src="https://img.shields.io/badge/Portfólio-lazarom.dev-0077B5?style=for-the-badge">
+</a>
 
 ---
 
