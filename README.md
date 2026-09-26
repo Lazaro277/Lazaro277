@@ -13,14 +13,14 @@ Busco constantemente aprender novas tecnologias, melhorar minhas habilidades com
 ## 🚀 Tecnologias e ferramentas
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
 </div>
 
 ---
@@ -67,8 +67,8 @@ Jogo desenvolvido para praticar conceitos de **JavaScript e manipulação do DOM
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lazaro277&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro277&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lazaro277&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro277&layout=compact&theme=transparent&hide_border=true&locale=pt-br" />
 </div>
 
 ---
@@ -83,11 +83,9 @@ Estou construindo meu portfólio através de projetos práticos, estudos e desaf
 
 ## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lázaro%20Messias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazaro-messias)
-
 [![Portfolio](https://img.shields.io/badge/Portfólio-lazarom.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lazarom.dev)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lazaro277-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lazaro277)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lázaro%20Messias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazaro-messias)
 
 ---
 
