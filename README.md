@@ -19,7 +19,7 @@ Busco constantemente aprender novas tecnologias, melhorar minhas habilidades com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=light" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
 </div>
 
@@ -52,6 +52,7 @@ Aplicação web desenvolvida durante a **NLW Operator da Rocketseat**, voltada p
 
 **Tecnologias:** HTML, Tailwind CSS, JavaScript, Cloudinary, GSAP e Lucide Icons.
 
+🔗 [Testar](https://lazarom.dev/clip-maker)
 🔗 [Ver repositório](https://github.com/Lazaro277/clip-maker)
 
 ---
@@ -61,15 +62,7 @@ Aplicação web desenvolvida durante a **NLW Operator da Rocketseat**, voltada p
 Jogo desenvolvido para praticar conceitos de **JavaScript e manipulação do DOM**, com diferentes níveis de dificuldade, sistema de vidas e geração dinâmica dos mosquitos na tela.
 
 🔗 [Jogar](https://lazarom.dev/game-mosquito/)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lazaro277&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro277&layout=compact&theme=transparent&hide_border=true&locale=pt-br" />
-</div>
+🔗 [Ver repositório](https://github.com/Lazaro277/game-mosquito)
 
 ---
 
@@ -83,7 +76,7 @@ Estou construindo meu portfólio através de projetos práticos, estudos e desaf
 
 ## 🌐 Contato
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-lazarom.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lazarom.dev)
+[![Portfólio](https://img.shields.io/badge/Portfólio-lazarom.dev-0077B5?style=for-the-badge)](https://lazarom.dev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lázaro%20Messias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazaro-messias)
 
