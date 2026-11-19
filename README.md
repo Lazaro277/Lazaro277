@@ -46,23 +46,25 @@ Busco constantemente aprender novas tecnologias, melhorar minhas habilidades com
 
 ## 💻 Projetos em destaque
 
-### 🎬 ClipMaker
+### 💇 Hair Day — Gerenciamento de Agendamentos
 
-Aplicação web desenvolvida durante a **NLW Operator da Rocketseat**, voltada para upload e processamento de vídeos.
+Aplicação web para gerenciamento de agendamentos em um salão de beleza. Permite consultar horários disponíveis, visualizar os atendimentos por data, criar novos agendamentos e cancelar horários existentes.
 
-**Tecnologias:** HTML, Tailwind CSS, JavaScript, Cloudinary, GSAP e Lucide Icons.
+**Tecnologias:** HTML5, CSS3, JavaScript, Webpack, Day.js, JSON Server e Fetch API.
 
-🔗 [Testar](https://lazarom.dev/clip-maker) <br>
-🔗 [Ver repositório](https://github.com/Lazaro277/clip-maker)
+🔗 [Acessar documentação e guia de execução](https://lazarom.dev/hair-day/)  
+🔗 [Ver repositório](https://github.com/Lazaro277/hair-day)
 
 ---
 
-### 🦟 Mata Mosquito
+### 🐾 Mundo Pet — Sistema de Agendamento
 
-Jogo desenvolvido para praticar conceitos de **JavaScript e manipulação do DOM**, com diferentes níveis de dificuldade, sistema de vidas e geração dinâmica dos mosquitos na tela.
+Aplicação web para gerenciamento de agendamentos de um pet shop. Organiza os atendimentos por data e período, permite cadastrar serviços com informações do tutor e do pet, consultar horários disponíveis e cancelar agendamentos.
 
-🔗 [Jogar](https://lazarom.dev/game-mosquito/) <br>
-🔗 [Ver repositório](https://github.com/Lazaro277/game-mosquito)
+**Tecnologias:** HTML5, CSS3, JavaScript, Webpack, Babel, Day.js, Bootstrap 5, Bootstrap Icons e JSON Server.
+
+🔗 [Acessar documentação e guia de execução](https://lazarom.dev/agendamento-petshop/)  
+🔗 [Ver repositório](https://github.com/Lazaro277/agendamento-petshop)
 
 ---
 
